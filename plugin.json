@@ -1,0 +1,12 @@
+{
+    "ID":"a246dbc93d45486f16b985669557846c",
+    "ActionKeyword":"var",
+    "Name":"lhx变量命名",
+    "Description":"变量命名，点击结果可进行复制",
+    "Author":"Lhx",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/NameDisplayError/VariableNaming",
+    "ExecuteFileName":"main.py",
+    "IcoPath":"Images\\app.png"
+}
